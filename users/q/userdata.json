@@ -1,6 +1,8 @@
 {
   "favs": [],
-  "playlists": {},
+  "playlists": {
+    "Мой плейлист": []
+  },
   "stats": {
     "totalSeconds": 2037,
     "playCounts": {
