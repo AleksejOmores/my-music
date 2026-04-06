@@ -9,9 +9,10 @@
       "1775461460125_hnmvy8": 2
     },
     "unlocked": {
-      "cover_first": 1775499889951
+      "cover_first": 1775499889951,
+      "offline_first": 1775499987116
     },
     "editedTracks": 3,
-    "offlineSaved": 0
+    "offlineSaved": 1
   }
 }
