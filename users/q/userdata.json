@@ -2,7 +2,7 @@
   "favs": [],
   "playlists": {},
   "stats": {
-    "totalSeconds": 1867,
+    "totalSeconds": 1869,
     "playCounts": {
       "1775461948439_hexjzn": 2,
       "1775461953721_djdet0": 1,
@@ -11,7 +11,7 @@
     "unlocked": {
       "cover_first": 1775499889951
     },
-    "editedTracks": 1,
+    "editedTracks": 3,
     "offlineSaved": 0
   }
 }
