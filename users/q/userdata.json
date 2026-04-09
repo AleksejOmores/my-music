@@ -1,7 +1,11 @@
 {
   "favs": [],
-  "playlists": {},
-  "playlistCovers": {},
+  "playlists": {
+    "Мой первый": []
+  },
+  "playlistCovers": {
+    "Мой первый": null
+  },
   "stats": {
     "totalSeconds": 523,
     "playCounts": {
