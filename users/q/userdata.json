@@ -6,8 +6,10 @@
     "playCounts": {
       "1775461460125_hnmvy8": 1
     },
-    "unlocked": {},
+    "unlocked": {
+      "offline_first": 1775706942883
+    },
     "editedTracks": 0,
-    "offlineSaved": 0
+    "offlineSaved": 2
   }
 }
