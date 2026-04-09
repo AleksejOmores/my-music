@@ -8,9 +8,11 @@
       "1775461460125_hnmvy8": 5
     },
     "unlocked": {
-      "offline_first": 1775706942883
+      "offline_first": 1775706942883,
+      "first_track": 1775709164233,
+      "cover_first": 1775709164235
     },
     "editedTracks": 0,
-    "offlineSaved": 5
+    "offlineSaved": 6
   }
 }
