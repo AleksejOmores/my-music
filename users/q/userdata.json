@@ -6,8 +6,10 @@
     "playCounts": {
       "17757098811771cext": 1
     },
-    "unlocked": {},
+    "unlocked": {
+      "offline_first": 1775712507323
+    },
     "editedTracks": 0,
-    "offlineSaved": 0
+    "offlineSaved": 1
   }
 }
