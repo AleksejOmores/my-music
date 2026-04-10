@@ -1,14 +1,17 @@
 {
   "favs": [],
   "playlists": {},
+  "playlistCovers": {},
   "playlistTrackOrder": {},
   "stats": {
     "totalSeconds": 0,
-    "playCounts": {},
+    "playCounts": {
+      "1775812143389_u58lp3rq": 1
+    },
     "unlocked": {
       "offline_first": 1775815757136
     },
     "editedTracks": 0,
-    "offlineSaved": 2
+    "offlineSaved": 1
   }
 }
