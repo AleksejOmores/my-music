@@ -19,9 +19,11 @@
       "1775461953721_djdet0": 1
     },
     "unlocked": {
-      "offline_first": 1775712507323
+      "offline_first": 1775712507323,
+      "first_track": 1775810911152,
+      "cover_first": 1775810911152
     },
     "editedTracks": 0,
-    "offlineSaved": 14
+    "offlineSaved": 15
   }
 }
