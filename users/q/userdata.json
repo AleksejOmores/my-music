@@ -1,1 +1,14 @@
-{"favs":[],"playlists":{},"playlistCovers":{},"playlistTrackOrder":{},"stats":{"totalSeconds":190,"playCounts":{"1775812143389_u58lp3rq":2,"17757098811771cext":1,"1775710461712ga115":1},"unlocked":{"offline_first":1775815757136,"first_track":1776053351165,"cover_first":1776053351165},"editedTracks":0,"offlineSaved":6}}
+{
+  "favs": [],
+  "playlists": {},
+  "playlistTrackOrder": {},
+  "stats": {
+    "totalSeconds": 0,
+    "playCounts": {},
+    "unlocked": {
+      "offline_first": 1776053441255
+    },
+    "editedTracks": 0,
+    "offlineSaved": 1
+  }
+}
