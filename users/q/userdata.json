@@ -1,14 +1,1 @@
-{
-  "favs": [],
-  "playlists": {},
-  "playlistTrackOrder": {},
-  "stats": {
-    "totalSeconds": 0,
-    "playCounts": {},
-    "unlocked": {
-      "offline_first": 1776053441255
-    },
-    "editedTracks": 0,
-    "offlineSaved": 1
-  }
-}
+{"favs":[],"playlists":{},"playlistCovers":{},"playlistTrackOrder":{},"stats":{"totalSeconds":0,"playCounts":{},"unlocked":{"offline_first":1776053441255},"editedTracks":0,"offlineSaved":1}}
